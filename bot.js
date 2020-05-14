@@ -21,7 +21,7 @@ bot.on('message', function(user, userID, channelID, message, event) {
             case 'gamedev':
                 bot.sendMessage({
                     to: channelID,
-                    message: `Play the Lastest version of Goorton's web game :video_game: : ${devGame}`
+                    message: `Play the Latest version of Goorton's browser game :video_game: : ${devGame}`
                 })
                 break
 
