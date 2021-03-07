@@ -4,7 +4,7 @@
  * ========================
  */
 
-const AuthToken = 'NzEwMzI2NTY1Mjk2MTQ0NTA4.Xry2oQ.NQZtalx40cfnIQHwwMBlFGIRhW4'
+const AuthToken = process.env.Token
 
 /**
  * =========================
